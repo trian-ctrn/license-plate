@@ -1,4 +1,8 @@
-# license-plate
+# Abstract
+-  Module used in this project:
+Tensorflow, Gradio
+- This project stimulates the process ò license plates number recognition system in a majority parking lots located in Ho Chi Minh city.
+# License-plate
 Link of data: https://drive.google.com/uc?export=download&id=0B9GEvXOuYdpldG5HRV9qRUJVMFU
 
 
@@ -60,17 +64,9 @@ This is my slide about the project: [click here](https://hackmd.io/@P7mWzip8QO2j
 ![download (2)](https://user-images.githubusercontent.com/83942057/118450020-f35fab80-b71d-11eb-84a7-5b5c1134457e.png) 
 ![download (3)](https://user-images.githubusercontent.com/83942057/118450033-f8245f80-b71d-11eb-9866-ab9a41d75723.png)
 
-
-
-
-
-
-
 # How to use
 - This is like the system in the parking lot
 1. Open the gradio
 2. Input your name, your type of license plate and your url of that license plate
 3. Submit it 
-4. Then input your name,  your type of license plate and your url of that license plate again, you will see the total money you have to pay. Remember to use an unique name
-
-
+4. Then input your name,  your type of license plate and your url of that license plate again, you will see the total money you have to pay. Remember to use an unique name.
