@@ -1,7 +1,7 @@
 # Abstract
 -  Module used in this project:
 Tensorflow, Gradio
-- This project stimulates the process ò license plates number recognition system in a majority parking lots located in Ho Chi Minh city.
+- This project stimulates the process of license plates number recognition system in a majority parking lots located in Ho Chi Minh city.
 # License-plate
 Link of data: https://drive.google.com/uc?export=download&id=0B9GEvXOuYdpldG5HRV9qRUJVMFU
 
